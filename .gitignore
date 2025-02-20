@@ -41,4 +41,6 @@ inventory-service/mvnw.cmd
 order-service/mvnw.cmd
 product-service/mvnw.cmd
 
+api-gateway/volume-data/mysql_keycloak_data/mysql.sock
+
 data/
